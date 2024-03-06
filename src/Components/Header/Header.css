@@ -1,0 +1,57 @@
+
+.header-container {
+    position: fixed;
+    width: 100%;
+    z-index: 9100;
+    background-color:rgba(0,0,0,0.1);
+    /* background: linear-gradient(45deg, #09000a, transparent); */
+
+}
+
+.header-wrapper {
+    max-width: 95%;
+    margin: auto;
+
+}
+.header-home-navm {
+    display: inline-block;
+}
+
+.nav-btn {
+    border: none;
+    background: transparent;
+    color: #f1e2e2e3;
+    font-size: 18px;
+    padding: 3px 8px;
+    cursor:pointer;
+    margin:8px;
+    font-family: "Abel", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  transition: all 0.5s;
+
+}
+.nav-btn:hover
+{
+    background: linear-gradient(90deg, rgba(52,24,65,1) 10%, rgba(111,32,31,1) 60%);
+    border-radius: 42px;
+}
+
+.nav-btn--academy {
+    border: 1px;
+    background-color: rgb(231 16 187);
+    padding: 10px;
+    border-radius: 10px;
+    width: 7rem;
+    color: #ffebcd;
+}
+
+.nav-menu {
+    margin: 13px auto;
+    float: right;
+}
+
+.logo {
+    width: 25%;
+    margin-top:15px;
+}

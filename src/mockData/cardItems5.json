@@ -1,0 +1,13 @@
+{
+    "title": "EMPOWERING FUTURES: UNVEILING OUR STORY AT D6",
+    "description1": "Welcome to d6 immersive studio, where we pioner a new era in work-based training and placement for animation, gaming, and immersive technologies like virtual Reality (VR) and Augmented Reality (AR), NDisplay etc. Our mission is to not equip you with cutting-edge skills but also to seamlessly connect you with industry opportunities that match your passion and expertise.",
+    "description2": "About Us",
+    "description3": "WHAT WE CREATE",
+    "description4":[{"title":"Digital Signage","discription":"Transforming spaces with dynamic visual storytelling","imgsrc":"./images/imageon1.jpg"},
+        {"title":"Virtual Production","discription":"Transforming spaces with dynamic visual storytelling","imgsrc":"./images/imageon2.jpg"},
+        {"title":"Adds / Explainers","discription":"Transforming spaces with dynamic visual storytelling","imgsrc":"./images/imageon1.jpg"},
+        {"title":"3D Animations","discription":"Transforming spaces with dynamic visual storytelling","imgsrc":"./images/imageon2.jpg"},
+        {"title":"3D Animations","discription":"Transforming spaces with dynamic visual storytelling","imgsrc":"./images/imageon1.jpg"},
+        {"title":"3D Animations","discription":"Transforming spaces with dynamic visual storytelling","imgsrc":"./images/imageon2.jpg"}
+    ]
+}

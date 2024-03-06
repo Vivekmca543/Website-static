@@ -1,0 +1,86 @@
+.card-items-section {
+    margin-top: 50px;
+    float: left;
+    width: 100%;
+    padding-top: 45px;
+    clear: both;
+}
+.card-items-container {
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    max-width: 100%;
+}
+.card-padding-wrapper {
+    padding: 10px;
+    height: auto;
+}
+.card-padding-wrapper .dummy-screen{position:fixed;z-index:10;bottom:0px;left:0px;opacity:0.5;width:100%;}
+.card-title-wrapper,
+.card-desc-wrapper {
+    margin-bottom: 1rem;
+}
+
+.card-align-right {
+    text-align: right;
+}
+
+.card-align-left {
+    text-align: left;
+}
+.card-align-center{
+    text-align: center;
+}
+.card-items-image {
+    width: 100%;
+    height: auto;
+}
+.card-wrapper.third-content p:nth-of-type(1){
+    font-size:32px;
+}
+.card-wrapper.third-content p:nth-of-type(2){
+    font-size: 26px;
+    line-height: 32px;
+    max-width: 72%;
+    margin: 20px auto 0px auto;
+}
+.wrapper-fullwidth{ width: 95%;
+    height: auto;display:flex;margin:0px auto;}
+.wrapper-quatwidth .card-items-title,.third-content .card-items-title{background: linear-gradient(to right, #FF5D16 0%, #F1173B 50%, #592D7E 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;}   
+    .card-wrapper.third-content .card-items-description, .wrapper-quatwidth .card-items-description p{color:#ffffff;-webkit-text-fill-color:#fff;background:none;font-size:16px;line-height:23px;}
+    .card-items-description p:nth-of-type(2){margin-top:20px;} 
+.wrapper-quatwidth{
+    max-width: 23%;
+    height: auto;  
+}
+.mrgnr-rem{margin-right:1rem;}
+.wrapper-quatbalncwidth .video-parent{width: 104%;
+    height: 104%;
+    overflow: hidden;border:4px solid #ff812b;}
+.wrapper-quatbalncwidth{
+    width: 65%;
+    height: 395px;
+    border: 2px solid #ffffff;
+    padding-top: 30px;
+    padding-left: 25px;
+    margin-bottom: 60px;
+}
+.wrapper-halfwidth{
+    width: 50%;
+    height: auto;  
+}
+.card-items-title,
+.card-items-description {
+    background: -webkit-linear-gradient(120deg, #d11a84, #7a3da9, #17b6ec);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 40px;
+}
+
+.card-items-description {
+    font-size: 20px;
+}
